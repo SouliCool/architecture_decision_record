@@ -1,4 +1,4 @@
-# architecture Decision Record (ARD)
+# architecture Decision Record (ADR)
 ADR is a document that captures an important architectural decision made along with its context and consequences.
 
 This repo contains 3 ADRs templates:
