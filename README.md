@@ -1,5 +1,5 @@
 # architecture Decision Record (ARD)
-ARD is a document that captures an important architectural decision made along with its context and consequences.
+ADR is a document that captures an important architectural decision made along with its context and consequences.
 
 This repo contains 3 ADRs templates:
 1. Simple ADR template based on Michael Nygard proposal.
