@@ -1,9 +1,5 @@
 Date:
 
-# ADR template by Michael Nygard
-
-In each ADR file, write these sections:
-
 # Title
 Meaningful title of the decision  
 
